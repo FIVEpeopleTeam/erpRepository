@@ -124,6 +124,7 @@ import datebase.tools.DatabaseUtil;
 				}
 			}
 			rs = ps.executeQuery();
+//			将查询结果赋值
 		}
 		return rs;
 	}
